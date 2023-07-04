@@ -80,6 +80,7 @@ vector<int> firstLastOccurrence(vector<int> &nums, int target)
 }
 int main()
 {
-
+    vector<int> num = {1, 2, 4, 4, 4, 5, 9};
+    firstLastOccurrence
     return 0;
 }
